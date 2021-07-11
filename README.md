@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DroidGuy2510
+- 👋 Hi, I’m @Prashant
 - 👀 I’m interested in Android,Kotlin
 - 🌱 I’m currently learning Android
 - 💞️ I’m looking to collaborate on Android projects
