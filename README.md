@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DroidGuy2510
 - 👀 I’m interested in Android,Kotlin
-- 🌱 I’m currently learning Ktor
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Android
+- 💞️ I’m looking to collaborate on Android projects
 - 📫 How to reach me prashantrawat659@gmail.com
 
 <!---
